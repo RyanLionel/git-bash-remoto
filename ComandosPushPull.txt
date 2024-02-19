@@ -1,0 +1,11 @@
+Criando arquivo no repositorio remoto
+
+10. Adicione no GitHub um arquivo chamado "ComandosPushPull.txt" Altere manualmente o arquivo para inserir o codigo a baixo:
+
+Comandos push e pull
+
+push: significa empurrar, corresponde ao ato de enviar o répositorio local para um répositorio remoto
+
+pull: significa puxar, corresponde ao ato contrário, pegar uma versão do repositorio remoto para o local
+
+Após finalizar o código, vá no final da página, coloque o comentário "Criando o arquivo ComandosPushPull.txt" e clique em "Commit new file"
